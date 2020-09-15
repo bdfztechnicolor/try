@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: 北大附中technicolor俱乐部
+title: 
 logo: 
 author: 张子健
 description: Look at here!
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: 北大附中technicolor俱乐部
 
 social:
 - {icon: "ti-facebook", link: "#"}
