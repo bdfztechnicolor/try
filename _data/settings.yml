@@ -1,20 +1,20 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: 北大附中technicolor俱乐部
 logo: 
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
+author: 张子健
+description: Look at here!
+email: 
+phone: 
+address: 
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
-- {name: About, link: '/about/'}
-- {name: Blog, link: '/blog/'}
-- {name: Portfolio, link: '/portfolio/'}
-- {name: Contact, link: '/contact/'}
+- {name: 消息, link: '/news/'}
+- {name: 项目, link: '/projects/'}
+- {name: 我们的社员, link: '/team/'}
+- {name: 联系我们, link: '/contact/'}
 
 
 #-------------------------------
